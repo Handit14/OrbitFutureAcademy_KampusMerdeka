@@ -1,0 +1,617 @@
+PH,cahaya,intensitas air,suhu,PPM,tinggi air,aksi
+6.5,Ada,Tinggi,27,188,622,Hidupkan Lampu dan Pompa nutrisi TDS
+5.7,Ada,Tinggi,26.9,79,557,Hidupkan Lampu dan Pompa nutrisi TDS
+6,Ada,Tinggi,27,11,491,Hidupkan Lampu dan Pompa nutrisi TDS
+6.5,Ada,Tinggi,27.1,345,12000,Tidak melakukan apa-apa
+6.2,,Tinggi,27.1,602,444,Tidak melakukan apa-apa
+6.1,,Tinggi,27,561,405,Hidupkan Lampu
+5.5,,Tinggi,26.9,,394,Hidupkan Lampu
+,,Tinggi,27,,271,Hidupkan Lampu
+,,Tinggi,27.1,,310,Tidak melakukan apa-apa
+,,Tinggi,26.9,,125,Hidupkan Lampu
+,Ada,Tinggi,26.5,,219,Hidupkan Lampu
+,Ada,Tinggi,,1604,103,Hidupkan Lampu
+5.7,Ada,Tinggi,,1072,112,Hidupkan Lampu
+5.6,Ada,Tinggi,,1718,46,Hidupkan Lampu
+6.3,Ada,Tinggi,,1709,22,Hidupkan Lampu
+6.5,Ada,Tinggi,,2106,0,Hidupkan Lampu
+6.4,Ada,Tinggi,,1667,6,Hidupkan Lampu
+6.7,Ada,Cukup,26.5,204,623,Hidupkan Lampu dan Pompa nutrisi TDS
+7.5,Ada,Cukup,26.5,238,464,Hidupkan Lampu dan Pompa nutrisi TDS
+7.3,Ada,Cukup,26.6,305,509,Hidupkan Lampu dan Pompa nutrisi TDS
+7.1,Ada,Cukup,26.6,172,500,Hidupkan Lampu dan Pompa nutrisi TDS
+6.5,Ada,Cukup,26.5,793,323,Hidupkan Lampu
+7,Ada,Cukup,26.5,588,412,Hidupkan Lampu
+7.3,Ada,Cukup,26.5,856,235,Hidupkan Lampu
+6.5,Ada,Cukup,26.5,841,246,Hidupkan Lampu
+6.9,Ada,Cukup,26.6,1317,166,Hidupkan Lampu
+7.1,Ada,Cukup,26.9,1143,201,Hidupkan Lampu
+7.2,Ada,Cukup,26.7,1363,96,Hidupkan Lampu
+7.1,Ada,Cukup,26.6,1545,68,Hidupkan Lampu
+6.5,Ada,Cukup,27,2097,4,Hidupkan Lampu
+7.3,Ada,Cukup,26.6,1847,12,Hidupkan Lampu
+7.2,Ada,Cukup,26.9,1904,9,Hidupkan Lampu
+6.5,Ada,Cukup,26.8,1925,0,Hidupkan Lampu
+0.2,Ada,Rendah,27.1,463,625,Tidak melakukan apa-apa
+2,Ada,Rendah,27,354,561,Hidupkan Lampu dan Pompa nutrisi TDS
+3.4,Ada,Rendah,27,407,530,Hidupkan Lampu dan Pompa nutrisi TDS
+1.1,Ada,Rendah,27,82,521,Hidupkan Lampu dan Pompa nutrisi TDS
+1.3,Ada,Rendah,27,610,434,Hidupkan Lampu
+4.5,Ada,Rendah,27,756,375,Hidupkan Lampu
+4.8,Ada,Rendah,27.2,893,398,Tidak melakukan apa-apa
+3.5,Ada,Rendah,27.1,927,275,Tidak melakukan apa-apa
+,Ada,Rendah,27.1,1231,246,Tidak melakukan apa-apa
+,Ada,Rendah,27.8,1171,147,Tidak melakukan apa-apa
+,Ada,Rendah,27.8,1586,125,Tidak melakukan apa-apa
+,Ada,Rendah,27.8,1591,70,Tidak melakukan apa-apa
+,Ada,Rendah,27.8,646,95,Tidak melakukan apa-apa
+3,Ada,Rendah,27.8,2110,27,Tidak melakukan apa-apa
+3.7,Ada,Rendah,27.8,1843,24,Tidak melakukan apa-apa
+2.2,Ada,Rendah,27.9,1786,0,Tidak melakukan apa-apa
+4.6,Ada,Rendah,,2120,9,Tidak melakukan apa-apa
+10.7,Ada,Rendah sekali,,491,614,Tidak melakukan apa-apa
+12,Ada,Rendah sekali,,40,590,Tidak melakukan apa-apa
+8.4,Ada,Rendah sekali,,305,516,Tidak melakukan apa-apa
+11.8,Ada,Rendah sekali,,246,529,Tidak melakukan apa-apa
+7.6,Ada,Rendah sekali,,758,505,Tidak melakukan apa-apa
+12,Ada,Rendah sekali,,628,417,Tidak melakukan apa-apa
+8.8,Ada,Rendah sekali,,1020,382,Tidak melakukan apa-apa
+8.1,Ada,Rendah sekali,,825,311,Tidak melakukan apa-apa
+9.1,Ada,Rendah sekali,,1205,270,Tidak melakukan apa-apa
+12.1,Ada,Rendah sekali,27.8,1279,141,Tidak melakukan apa-apa
+8.1,Ada,Rendah sekali,27.8,1385,195,Tidak melakukan apa-apa
+9.1,Ada,Rendah sekali,27.8,1496,91,Tidak melakukan apa-apa
+11,Ada,Rendah sekali,27.7,756,72,Tidak melakukan apa-apa
+9.8,Ada,Rendah sekali,27.7,1941,22,Tidak melakukan apa-apa
+10.4,Ada,Rendah sekali,27.6,1885,44,Tidak melakukan apa-apa
+10.3,Ada,Rendah sekali,27.7,2123,26,Tidak melakukan apa-apa
+8.9,Ada,Rendah sekali,27.8,1951,0,Tidak melakukan apa-apa
+6.8,Tidak ada,Tinggi,27.3,1995,600,Tidak melakukan apa-apa
+7.4,Tidak ada,Tinggi,27.3,2087,543,Tidak melakukan apa-apa
+6.5,Tidak ada,Tinggi,27.4,1935,619,Tidak melakukan apa-apa
+7.5,Tidak ada,Tinggi,27.4,1623,609,Tidak melakukan apa-apa
+6.5,Tidak ada,Tinggi,27.3,2069,606,Tidak melakukan apa-apa
+6.8,Tidak ada,Tinggi,27.4,2039,500,Tidak melakukan apa-apa
+6.8,Tidak ada,Tinggi,27.5,1972,518,Tidak melakukan apa-apa
+,Tidak ada,Tinggi,27.8,1638,443,Tidak melakukan apa-apa
+,Tidak ada,Tinggi,27.8,1890,496,Tidak melakukan apa-apa
+,Tidak ada,Tinggi,28.6,2047,409,Tidak melakukan apa-apa
+,Tidak ada,Tinggi,28.5,1456,9000,Tidak melakukan apa-apa
+,Tidak ada,Tinggi,28.6,1478,392,Tidak melakukan apa-apa
+,Tidak ada,Tinggi,28.9,1594,393,Tidak melakukan apa-apa
+7.1,Tidak ada,Tinggi,29.5,1463,302,Tidak melakukan apa-apa
+6.7,Tidak ada,Tinggi,30.1,1322,228,Tidak melakukan apa-apa
+7.2,Tidak ada,Tinggi,29.5,1171,239,Tidak melakukan apa-apa
+7,Tidak ada,Tinggi,30,1211,304,Tidak melakukan apa-apa
+7.2,Tidak ada,Tinggi,30,1332,274,Tidak melakukan apa-apa
+6.9,Tidak ada,Tinggi,30,1330,200,Tidak melakukan apa-apa
+7.5,Tidak ada,Tinggi,30.1,985,194,Tidak melakukan apa-apa
+7.5,Tidak ada,Tinggi,30,1006,197,Tidak melakukan apa-apa
+7.5,Tidak ada,Tinggi,30.6,849,127,Tidak melakukan apa-apa
+6.6,Tidak ada,Tinggi,31.2,1064,206,Tidak melakukan apa-apa
+7.2,Tidak ada,Tinggi,32.1,877,54,Tidak melakukan apa-apa
+6.9,Tidak ada,Tinggi,32.9,700,76,Tidak melakukan apa-apa
+6.5,Tidak ada,Tinggi,38.1,635,50,Tidak melakukan apa-apa
+6.8,Tidak ada,Tinggi,39.2,740,94,Tidak melakukan apa-apa
+6.5,Tidak ada,Tinggi,39.7,581,49,Tidak melakukan apa-apa
+6.9,Tidak ada,Tinggi,40.6,658,33,Tidak melakukan apa-apa
+7,Tidak ada,Tinggi,35.6,335,18,Tidak melakukan apa-apa
+6.8,Tidak ada,Tinggi,34.9,454,29,Tidak melakukan apa-apa
+6.7,Tidak ada,Tinggi,31.9,65,36,Tidak melakukan apa-apa
+6.8,Tidak ada,Tinggi,32.2,84,18,Tidak melakukan apa-apa
+7.5,Tidak ada,Tinggi,32.5,543,9,Tidak melakukan apa-apa
+7.5,Tidak ada,Tinggi,32.9,77,1,Tidak melakukan apa-apa
+6.9,Tidak ada,Tinggi,33.2,309,40,Tidak melakukan apa-apa
+7,Tidak ada,Tinggi,33.2,260,35,Tidak melakukan apa-apa
+6.6,Tidak ada,Tinggi,33.7,288,50,Tidak melakukan apa-apa
+5.8,Tidak ada,Cukup,25,1710,605,Tidak melakukan apa-apa
+6.5,Tidak ada,Cukup,33.7,2139,526,Tidak melakukan apa-apa
+5.8,Tidak ada,Cukup,33.6,2110,522,Tidak melakukan apa-apa
+6.5,Tidak ada,Cukup,33.7,1857,527,Tidak melakukan apa-apa
+5.7,Tidak ada,Cukup,-300,1991,624,Tidak melakukan apa-apa
+6.1,Tidak ada,Cukup,33.7,1772,545,Tidak melakukan apa-apa
+5.9,Tidak ada,Cukup,33.5,1874,485,Tidak melakukan apa-apa
+6.1,Tidak ada,Cukup,33.2,2051,519,Tidak melakukan apa-apa
+6,Tidak ada,Cukup,33.2,2108,495,Tidak melakukan apa-apa
+6,Tidak ada,Cukup,33.9,1874,448,Tidak melakukan apa-apa
+5.7,Tidak ada,Cukup,33.9,1462,352,Tidak melakukan apa-apa
+5.5,Tidak ada,Cukup,33,1585,323,Tidak melakukan apa-apa
+5.5,Tidak ada,Cukup,32.7,1606,370,Tidak melakukan apa-apa
+5.9,Tidak ada,Cukup,-100,1443,401,Tidak melakukan apa-apa
+5.8,Tidak ada,Cukup,33.4,1094,315,Tidak melakukan apa-apa
+6.5,Tidak ada,Cukup,33.2,1249,239,Tidak melakukan apa-apa
+6,Tidak ada,Cukup,33.7,1277,315,Tidak melakukan apa-apa
+6.5,Tidak ada,Cukup,34,1100,313,Tidak melakukan apa-apa
+5.7,Tidak ada,Cukup,,1233,335,Tidak melakukan apa-apa
+5.6,Tidak ada,Cukup,,1071,185,Tidak melakukan apa-apa
+6.2,Tidak ada,Cukup,,840,124,Tidak melakukan apa-apa
+6.2,Tidak ada,Cukup,,878,148,Tidak melakukan apa-apa
+6,Tidak ada,Cukup,,1012,192,Tidak melakukan apa-apa
+6.2,Tidak ada,Cukup,,1062,131,Tidak melakukan apa-apa
+5.8,Tidak ada,Cukup,,717,82,Tidak melakukan apa-apa
+5.6,Tidak ada,Cukup,,804,85,Tidak melakukan apa-apa
+5.7,Tidak ada,Cukup,35.1,621,66,Tidak melakukan apa-apa
+5.6,Tidak ada,Cukup,33.9,602,63,Tidak melakukan apa-apa
+6,Tidak ada,Cukup,33.9,810,24,Tidak melakukan apa-apa
+6.3,Tidak ada,Cukup,34.2,540,14,Tidak melakukan apa-apa
+6.5,Tidak ada,Cukup,,392,3,Tidak melakukan apa-apa
+6,Tidak ada,Cukup,35.2,209,11,Tidak melakukan apa-apa
+6.1,Tidak ada,Cukup,35.2,54,38,Tidak melakukan apa-apa
+5.5,Tidak ada,Cukup,34.7,315,6,Tidak melakukan apa-apa
+5.8,Tidak ada,Cukup,34.6,119,16,Tidak melakukan apa-apa
+5.7,Tidak ada,Cukup,34.1,370,31,Tidak melakukan apa-apa
+5.8,Tidak ada,Cukup,34.6,469,22,Tidak melakukan apa-apa
+6.5,Tidak ada,Cukup,34.9,57,50,Tidak melakukan apa-apa
+7.7,Tidak ada,Rendah,35,1871,600,Tidak melakukan apa-apa
+7.9,Tidak ada,Rendah,35.2,2057,582,Tidak melakukan apa-apa
+11,Tidak ada,Rendah,35.2,2035,537,Tidak melakukan apa-apa
+13.1,Tidak ada,Rendah,34.6,1982,561,Tidak melakukan apa-apa
+12.1,Tidak ada,Rendah,,1776,456,Tidak melakukan apa-apa
+8.9,Tidak ada,Rendah,34.1,1819,426,Tidak melakukan apa-apa
+13.8,Tidak ada,Rendah,34.1,1841,493,Tidak melakukan apa-apa
+12.3,Tidak ada,Rendah,34.2,1954,525,Tidak melakukan apa-apa
+12.8,Tidak ada,Rendah,34.3,1935,429,Tidak melakukan apa-apa
+8.6,Tidak ada,Rendah,34.1,1631,426,Tidak melakukan apa-apa
+10.5,Tidak ada,Rendah,34.4,1562,398,Tidak melakukan apa-apa
+12.6,Tidak ada,Rendah,34.4,1420,342,Tidak melakukan apa-apa
+11.2,Tidak ada,Rendah,34.1,1607,363,Tidak melakukan apa-apa
+8.1,Tidak ada,Rendah,34.1,1380,335,Tidak melakukan apa-apa
+11.4,Tidak ada,Rendah,34,1115,296,Tidak melakukan apa-apa
+12.6,Tidak ada,Rendah,34.1,1103,263,Tidak melakukan apa-apa
+10.4,Tidak ada,Rendah,34.1,1334,289,Tidak melakukan apa-apa
+12.3,Tidak ada,Rendah,34.5,1140,235,Tidak melakukan apa-apa
+13.3,Tidak ada,Rendah,34.3,1206,292,Tidak melakukan apa-apa
+11.7,Tidak ada,Rendah,33.9,873,139,Tidak melakukan apa-apa
+8.1,Tidak ada,Rendah,34.2,1002,144,Tidak melakukan apa-apa
+8.4,Tidak ada,Rendah,33.7,952,140,Tidak melakukan apa-apa
+11.6,Tidak ada,Rendah,33.7,918,148,Tidak melakukan apa-apa
+12.9,Tidak ada,Rendah,33.7,1060,164,Tidak melakukan apa-apa
+8.3,Tidak ada,Rendah,33.7,594,79,Tidak melakukan apa-apa
+10.5,Tidak ada,Rendah,33.4,700,88,Tidak melakukan apa-apa
+8.1,Tidak ada,Rendah,33.2,611,78,Tidak melakukan apa-apa
+12.2,Tidak ada,Rendah,33.3,571,105,Tidak melakukan apa-apa
+10.5,Tidak ada,Rendah,33.2,781,20,Tidak melakukan apa-apa
+12.8,Tidak ada,Rendah,33,392,34,Tidak melakukan apa-apa
+8.8,Tidak ada,Rendah,33,474,25,Tidak melakukan apa-apa
+9.3,Tidak ada,Rendah,33,61,42,Tidak melakukan apa-apa
+10.9,Tidak ada,Rendah,32.6,250,40,Tidak melakukan apa-apa
+9.3,Tidak ada,Rendah,32.5,73,19,Tidak melakukan apa-apa
+10.7,Tidak ada,Rendah,32.5,12,10,Tidak melakukan apa-apa
+7.9,Tidak ada,Rendah,32.2,52,43,Tidak melakukan apa-apa
+12.4,Tidak ada,Rendah,32.4,399,31,Tidak melakukan apa-apa
+10.2,Tidak ada,Rendah,32.4,102,47,Tidak melakukan apa-apa
+3.2,,Rendah sekali,32.3,1687,600,Tidak melakukan apa-apa
+4.3,,Rendah sekali,31.7,1724,582,Tidak melakukan apa-apa
+4.2,,Rendah sekali,31.8,1800,537,Tidak melakukan apa-apa
+5.2,,Rendah sekali,31.8,1858,561,Tidak melakukan apa-apa
+4.9,,Rendah sekali,31.8,2020,525,Tidak melakukan apa-apa
+0.1,Tidak ada,Rendah sekali,31.7,1663,521,Tidak melakukan apa-apa
+4.2,Tidak ada,Rendah sekali,31.7,1841,493,Tidak melakukan apa-apa
+3.4,Tidak ada,Rendah sekali,31.8,1646,525,Tidak melakukan apa-apa
+2.6,Tidak ada,Rendah sekali,32,2091,429,Tidak melakukan apa-apa
+3.9,Tidak ada,Rendah sekali,31.6,1900,457,Tidak melakukan apa-apa
+4.9,Tidak ada,Rendah sekali,31.6,1442,398,Tidak melakukan apa-apa
+5.4,Tidak ada,Rendah sekali,31.8,1569,409,Tidak melakukan apa-apa
+1.2,Tidak ada,Rendah sekali,31.7,1535,353,Tidak melakukan apa-apa
+3.3,Tidak ada,Rendah sekali,31.7,1598,373,Tidak melakukan apa-apa
+4.2,,Rendah sekali,31.8,1184,288,Tidak melakukan apa-apa
+2,,Rendah sekali,31.6,1215,308,Tidak melakukan apa-apa
+0.9,,Rendah sekali,31.3,1233,280,Tidak melakukan apa-apa
+3.4,,Rendah sekali,31.2,1222,316,Tidak melakukan apa-apa
+4.7,,Rendah sekali,31.4,1325,359,Tidak melakukan apa-apa
+5.1,,Rendah sekali,31.4,917,220,Tidak melakukan apa-apa
+3.9,Tidak ada,Rendah sekali,31.5,1080,157,Tidak melakukan apa-apa
+1.8,Tidak ada,Rendah sekali,31.6,937,129,Tidak melakukan apa-apa
+0.3,Tidak ada,Rendah sekali,31.7,995,187,Tidak melakukan apa-apa
+5.2,Tidak ada,Rendah sekali,31.2,878,161,Tidak melakukan apa-apa
+3.1,Tidak ada,Rendah sekali,31.2,794,116,Tidak melakukan apa-apa
+3,Tidak ada,Rendah sekali,31.2,807,89,Tidak melakukan apa-apa
+0.3,Tidak ada,Rendah sekali,31.2,778,105,Tidak melakukan apa-apa
+3.4,Tidak ada,Rendah sekali,30.6,808,30,Tidak melakukan apa-apa
+2,Tidak ada,Rendah sekali,31,708,72,Tidak melakukan apa-apa
+1.5,Tidak ada,Rendah sekali,30.6,450,29,Tidak melakukan apa-apa
+2.2,Tidak ada,Rendah sekali,30.8,385,32,Tidak melakukan apa-apa
+1.6,Tidak ada,Rendah sekali,31,274,36,Tidak melakukan apa-apa
+4.1,Tidak ada,Rendah sekali,31,271,1,Tidak melakukan apa-apa
+2.2,Tidak ada,Rendah sekali,30.8,389,40,Tidak melakukan apa-apa
+0.9,Tidak ada,Rendah sekali,30.9,40,48,Tidak melakukan apa-apa
+3.2,Tidak ada,Rendah sekali,30.6,312,31,Tidak melakukan apa-apa
+5.3,Tidak ada,Rendah sekali,30.5,293,3,Tidak melakukan apa-apa
+3.7,Tidak ada,Rendah sekali,30.5,231,31,Tidak melakukan apa-apa
+3.5,Ada,Tinggi,30.7,577,606,Tidak melakukan apa-apa
+3.7,Ada,Tinggi,30.5,790,622,Tidak melakukan apa-apa
+3.1,Ada,Tinggi,30.5,573,622,Tidak melakukan apa-apa
+1.8,Ada,Tinggi,30.6,715,524,Tidak melakukan apa-apa
+2.2,Ada,Tinggi,30.5,967,530,Tidak melakukan apa-apa
+4.8,Ada,Tinggi,30.5,948,497,Tidak melakukan apa-apa
+4.4,Ada,Tinggi,30.5,828,518,Tidak melakukan apa-apa
+0.1,Ada,Tinggi,30.4,941,489,Tidak melakukan apa-apa
+1.9,Ada,Tinggi,30.5,1056,469,Tidak melakukan apa-apa
+3.9,Ada,Tinggi,30.5,298,394,Tidak melakukan apa-apa
+3.8,Ada,Tinggi,30.6,222,340,Tidak melakukan apa-apa
+2.3,Ada,Tinggi,30.5,1,419,Tidak melakukan apa-apa
+5,Ada,Tinggi,30.5,169,403,Tidak melakukan apa-apa
+5.2,Ada,Tinggi,30.5,280,360,Tidak melakukan apa-apa
+4.2,Ada,Tinggi,29.1,359,220,Tidak melakukan apa-apa
+1.1,Ada,Tinggi,29.5,392,258,Tidak melakukan apa-apa
+5.4,Ada,Tinggi,28.6,329,294,Tidak melakukan apa-apa
+1.6,Ada,Tinggi,28.8,334,255,Tidak melakukan apa-apa
+1.9,Ada,Tinggi,28.8,1889,205,Tidak melakukan apa-apa
+0.3,Ada,Tinggi,28.7,2016,219,Tidak melakukan apa-apa
+4.8,Ada,Tinggi,28.7,2054,146,Tidak melakukan apa-apa
+2.9,Ada,Tinggi,28.6,2127,126,Tidak melakukan apa-apa
+1.5,Ada,Tinggi,28.8,1708,102,Tidak melakukan apa-apa
+0.2,Ada,Tinggi,28.7,1909,94,Tidak melakukan apa-apa
+3.4,Ada,Tinggi,28.7,1965,106,Tidak melakukan apa-apa
+0.1,Ada,Tinggi,28.9,2003,83,Tidak melakukan apa-apa
+2.3,Ada,Tinggi,28.1,1449,7,Tidak melakukan apa-apa
+1.7,Ada,Tinggi,28,1529,41,Tidak melakukan apa-apa
+4.8,Ada,Tinggi,28.3,1394,35,Tidak melakukan apa-apa
+4.2,Ada,Tinggi,28.2,1498,22,Tidak melakukan apa-apa
+4.3,Ada,Tinggi,27.8,1182,43,Tidak melakukan apa-apa
+1.9,Ada,Tinggi,28.1,1094,44,Tidak melakukan apa-apa
+1.8,Ada,Tinggi,27.8,1142,17,Tidak melakukan apa-apa
+4.9,Ada,Tinggi,27.8,1297,41,Tidak melakukan apa-apa
+12.6,Ada,Cukup,27.7,569,600,Tidak melakukan apa-apa
+11.2,Ada,Cukup,27.8,694,629,Tidak melakukan apa-apa
+7.9,Ada,Cukup,,642,534,Tidak melakukan apa-apa
+8.1,Ada,Cukup,27.9,739,514,Tidak melakukan apa-apa
+9.7,Ada,Cukup,27.9,1004,574,Tidak melakukan apa-apa
+10.7,Ada,Cukup,27.6,873,421,Tidak melakukan apa-apa
+8.7,Ada,Cukup,27.8,892,505,Tidak melakukan apa-apa
+8.4,Ada,Cukup,27.8,1036,429,Tidak melakukan apa-apa
+7.8,Ada,Cukup,27.8,984,469,Tidak melakukan apa-apa
+13.1,Ada,Cukup,26.5,399,347,Hidupkan Lampu dan Pompa nutrisi TDS
+11.3,Ada,Cukup,26.5,415,336,Hidupkan Lampu dan Pompa nutrisi TDS
+9.7,Ada,Cukup,26.7,206,398,Hidupkan Lampu dan Pompa nutrisi TDS
+13.8,Ada,Cukup,26.5,294,370,Hidupkan Lampu dan Pompa nutrisi TDS
+11.1,Ada,Cukup,26.5,83,313,Hidupkan Lampu dan Pompa nutrisi TDS
+7.7,Ada,Cukup,26.5,363,258,Hidupkan Lampu dan Pompa nutrisi TDS
+10.8,Ada,Cukup,26.6,482,238,Hidupkan Lampu dan Pompa nutrisi TDS
+10.8,Ada,Cukup,26.6,66,257,Hidupkan Lampu dan Pompa nutrisi TDS
+9.5,Ada,Cukup,26.5,315,239,Hidupkan Lampu dan Pompa nutrisi TDS
+13,Ada,Cukup,26.5,1911,133,Hidupkan Lampu
+8.8,Ada,Cukup,26.5,1681,205,Hidupkan Lampu
+13.6,Ada,Cukup,26.5,1942,158,Hidupkan Lampu
+8.9,Ada,Cukup,26.6,1939,202,Hidupkan Lampu
+14,Ada,Cukup,26.9,1702,116,Hidupkan Lampu
+11.7,Ada,Cukup,26.7,1621,94,Hidupkan Lampu
+10.9,Ada,Cukup,26.6,1839,96,Hidupkan Lampu
+10.7,Ada,Cukup,27,2009,111,Hidupkan Lampu
+9.9,Ada,Cukup,26.6,1531,27,Hidupkan Lampu
+10.1,Ada,Cukup,26.9,1443,33,Hidupkan Lampu
+11.9,Ada,Cukup,26.8,1574,1,Hidupkan Lampu
+13.6,Ada,Cukup,27.1,1459,46,Tidak melakukan apa-apa
+12.7,Ada,Cukup,27,1126,37,Hidupkan Lampu
+10.4,Ada,Cukup,27,1288,12,Hidupkan Lampu
+8.9,Ada,Cukup,27,1271,38,Hidupkan Lampu
+8.5,Ada,Cukup,27,1243,34,Hidupkan Lampu
+6.2,Ada,Rendah,27,736,587,Hidupkan Lampu
+5.6,Ada,Rendah,27.2,646,585,Tidak melakukan apa-apa
+5.5,Ada,Rendah,27.1,622,590,Tidak melakukan apa-apa
+6,Ada,Rendah,26.9,639,556,Hidupkan Lampu
+6.1,Ada,Rendah,27,845,496,Hidupkan Lampu
+5.6,Ada,Rendah,27.1,939,524,Tidak melakukan apa-apa
+6.4,Ada,Rendah,27.1,1062,431,Tidak melakukan apa-apa
+5.7,Ada,Rendah,27,880,452,Hidupkan Lampu
+6,Ada,Rendah,26.9,827,412,Hidupkan Lampu
+5.9,Ada,Rendah,27,434,330,Hidupkan Lampu dan Pompa nutrisi TDS
+5.9,Ada,Rendah,27.1,204,347,Tidak melakukan apa-apa
+5.6,Ada,Rendah,26.9,170,375,Hidupkan Lampu dan Pompa nutrisi TDS
+5.7,Ada,Rendah,26.5,72,346,Hidupkan Lampu dan Pompa nutrisi TDS
+5.5,Ada,Rendah,26.6,227,262,Hidupkan Lampu dan Pompa nutrisi TDS
+6.1,Ada,Rendah,27.7,227,320,Tidak melakukan apa-apa
+5.5,Ada,Rendah,26.5,214,233,Hidupkan Lampu dan Pompa nutrisi TDS
+6,Ada,Rendah,27.5,46,307,Tidak melakukan apa-apa
+5.6,Ada,Rendah,27.8,520,218,Tidak melakukan apa-apa
+6.5,Ada,Rendah,27.1,1734,180,Tidak melakukan apa-apa
+6.2,Ada,Rendah,27,1642,202,Hidupkan Lampu
+5.5,Ada,Rendah,26.5,2063,205,Hidupkan Lampu
+5.8,Ada,Rendah,27.1,1822,91,Tidak melakukan apa-apa
+6.4,Ada,Rendah,27.8,1720,64,Tidak melakukan apa-apa
+6.4,Ada,Rendah,27.8,1932,88,Tidak melakukan apa-apa
+5.6,Ada,Rendah,27.8,2082,92,Tidak melakukan apa-apa
+6.4,Ada,Rendah,26.9,1867,70,Hidupkan Lampu
+5.7,Ada,Rendah,27,1385,30,Hidupkan Lampu
+5.6,Ada,Rendah,27.7,1603,44,Tidak melakukan apa-apa
+6.1,Ada,Rendah,27.8,1460,38,Tidak melakukan apa-apa
+6.3,Ada,Rendah,26.9,1358,41,Hidupkan Lampu
+6.3,Ada,Rendah,27.1,1343,7,Tidak melakukan apa-apa
+6.1,Ada,Rendah,26.7,1122,16,Hidupkan Lampu
+5.7,Ada,Rendah,27.3,1097,8,Tidak melakukan apa-apa
+5.7,Ada,Rendah,27.8,1216,10,Tidak melakukan apa-apa
+6.8,Ada,Rendah sekali,27.5,671,604,Tidak melakukan apa-apa
+7.5,Ada,Rendah sekali,27.8,754,551,Tidak melakukan apa-apa
+7.1,Ada,Rendah sekali,27.1,616,544,Tidak melakukan apa-apa
+6.7,Ada,Rendah sekali,27,616,627,Hidupkan Lampu
+7.3,Ada,Rendah sekali,27,991,495,Hidupkan Lampu
+6.8,Ada,Rendah sekali,26.6,840,447,Hidupkan Lampu
+7.1,Ada,Rendah sekali,27.4,939,471,Tidak melakukan apa-apa
+7.3,Ada,Rendah sekali,27.9,928,474,Tidak melakukan apa-apa
+7.2,Ada,Rendah sekali,27.8,1006,399,Tidak melakukan apa-apa
+7.3,Ada,Rendah sekali,27.8,459,331,Tidak melakukan apa-apa
+7.4,Ada,Rendah sekali,27,96,397,Hidupkan Lampu dan Pompa nutrisi TDS
+7.4,Ada,Rendah sekali,27.7,453,375,Tidak melakukan apa-apa
+7.3,Ada,Rendah sekali,26.7,112,264,Hidupkan Lampu dan Pompa nutrisi TDS
+7.5,Ada,Rendah sekali,27.9,294,314,Tidak melakukan apa-apa
+6.9,Ada,Rendah sekali,26.9,150,252,Hidupkan Lampu dan Pompa nutrisi TDS
+6.6,Ada,Rendah sekali,26.5,176,274,Hidupkan Lampu dan Pompa nutrisi TDS
+7.1,Ada,Rendah sekali,27.8,469,225,Tidak melakukan apa-apa
+7.1,Ada,Rendah sekali,27.1,57,144,Tidak melakukan apa-apa
+7.4,Ada,Rendah sekali,27,2020,159,Hidupkan Lampu
+6.8,Ada,Rendah sekali,27.8,2142,172,Tidak melakukan apa-apa
+6.7,Ada,Rendah sekali,26.6,2067,210,Hidupkan Lampu
+6.9,Ada,Rendah sekali,26.6,1775,98,Hidupkan Lampu
+7.1,Ada,Rendah sekali,27.1,1875,87,Tidak melakukan apa-apa
+7,Ada,Rendah sekali,27.4,1652,50,Tidak melakukan apa-apa
+7.5,Ada,Rendah sekali,27,1826,86,Hidupkan Lampu
+7.1,Ada,Rendah sekali,27.8,2109,81,Tidak melakukan apa-apa
+7.2,Ada,Rendah sekali,26.6,1415,40,Hidupkan Lampu
+6.8,Ada,Rendah sekali,27.6,1378,48,Tidak melakukan apa-apa
+7,Ada,Rendah sekali,27.2,1374,6,Tidak melakukan apa-apa
+7.3,Ada,Rendah sekali,26.5,1604,8,Hidupkan Lampu
+7,Ada,Rendah sekali,27.8,1205,49,Tidak melakukan apa-apa
+7.1,Ada,Rendah sekali,27.3,1214,41,Tidak melakukan apa-apa
+7.3,Ada,Rendah sekali,27.8,1144,38,Tidak melakukan apa-apa
+6.9,Ada,Rendah sekali,26.5,1101,27,Hidupkan Lampu
+13.3,Tidak ada,Tinggi,27.8,1528,576,Tidak melakukan apa-apa
+6.8,Ada,Cukup,27.7,1385,1,Tidak melakukan apa-apa
+11.9,Tidak ada,Tinggi,27.6,1140,543,Tidak melakukan apa-apa
+8.8,Tidak ada,Tinggi,27,370,561,Hidupkan Pompa nutrisi TDS
+7.6,Tidak ada,Tinggi,27,545,623,Hidupkan Pompa nutrisi TDS
+7.6,Tidak ada,Tinggi,26.9,455,608,Hidupkan Pompa nutrisi TDS
+13.4,Tidak ada,Tinggi,26.7,345,484,Hidupkan Pompa nutrisi TDS
+12.6,Tidak ada,Tinggi,26.9,523,519,Hidupkan Pompa nutrisi TDS
+7.9,Tidak ada,Tinggi,26.9,254,455,Hidupkan Pompa nutrisi TDS
+9.2,Tidak ada,Tinggi,26.8,285,499,Hidupkan Pompa nutrisi TDS
+8.1,Tidak ada,Tinggi,26.8,218,424,Hidupkan Pompa nutrisi TDS
+9.4,Tidak ada,Tinggi,26.3,476,320,Hidupkan Pompa nutrisi TDS
+13,Tidak ada,Tinggi,26.4,132,420,Hidupkan Pompa nutrisi TDS
+9,Tidak ada,Tinggi,25.5,46,388,Hidupkan Pompa nutrisi TDS
+10.5,Tidak ada,Tinggi,26,400,370,Hidupkan Pompa nutrisi TDS
+8.4,Tidak ada,Tinggi,27.1,2063,367,Tidak melakukan apa-apa
+13.4,Tidak ada,Tinggi,27.6,1729,237,Tidak melakukan apa-apa
+11.1,Tidak ada,Tinggi,28.1,1680,303,Tidak melakukan apa-apa
+10.1,Tidak ada,Tinggi,27.8,2028,295,Tidak melakukan apa-apa
+8.3,Tidak ada,Tinggi,27.8,1750,231,Tidak melakukan apa-apa
+11.6,Tidak ada,Tinggi,27.9,1941,183,Tidak melakukan apa-apa
+9.3,Tidak ada,Tinggi,27.9,1836,125,Tidak melakukan apa-apa
+10.8,Tidak ada,Tinggi,29.9,174,147,Tidak melakukan apa-apa
+8.6,,Tinggi,30,306,139,Tidak melakukan apa-apa
+11.5,,Tinggi,29.5,62,181,Tidak melakukan apa-apa
+13.2,,Tinggi,29.5,89,114,Tidak melakukan apa-apa
+9.9,,Tinggi,30.6,246,76,Tidak melakukan apa-apa
+9.8,,Tinggi,30.6,300,119,Tidak melakukan apa-apa
+13.9,,Tinggi,31.2,118,101,Tidak melakukan apa-apa
+11.9,,Tinggi,34.4,517,137,Tidak melakukan apa-apa
+12.5,,Tinggi,37.1,75,43,Tidak melakukan apa-apa
+10.8,,Tinggi,38.1,981,11,Tidak melakukan apa-apa
+7.7,Tidak ada,Tinggi,39.2,1085,18,Tidak melakukan apa-apa
+13.9,Tidak ada,Tinggi,39.2,890,50,Tidak melakukan apa-apa
+13.6,Tidak ada,Tinggi,37.5,834,17,Tidak melakukan apa-apa
+14,Tidak ada,Tinggi,36.4,965,14,Tidak melakukan apa-apa
+8.8,Tidak ada,Tinggi,36.2,710,9,Tidak melakukan apa-apa
+8.6,Tidak ada,Tinggi,35.5,611,34,Tidak melakukan apa-apa
+9.7,Tidak ada,Tinggi,33.2,671,34,Tidak melakukan apa-apa
+11,Tidak ada,Tinggi,33.3,627,17,Tidak melakukan apa-apa
+1.9,Tidak ada,Cukup,33.2,1197,545,Tidak melakukan apa-apa
+2.4,Tidak ada,Cukup,33.9,1153,591,Tidak melakukan apa-apa
+4.5,Tidak ada,Cukup,34.4,1198,551,Tidak melakukan apa-apa
+4.6,Tidak ada,Cukup,33.9,1187,540,Tidak melakukan apa-apa
+0.7,Tidak ada,Cukup,33.9,1103,574,Tidak melakukan apa-apa
+2.9,Tidak ada,Cukup,33.2,1569,519,Tidak melakukan apa-apa
+3.8,Tidak ada,Cukup,33.2,1594,513,Tidak melakukan apa-apa
+1,Tidak ada,Cukup,32.6,1347,435,Tidak melakukan apa-apa
+5.1,Tidak ada,Cukup,33.9,1493,452,Tidak melakukan apa-apa
+0,Tidak ada,Cukup,33.9,1488,504,Tidak melakukan apa-apa
+4.3,Tidak ada,Cukup,33.9,1941,357,Tidak melakukan apa-apa
+1.6,Tidak ada,Cukup,33.9,1882,389,Tidak melakukan apa-apa
+2,Tidak ada,Cukup,33.4,1817,381,Tidak melakukan apa-apa
+0.2,Tidak ada,Cukup,33.9,1994,389,Tidak melakukan apa-apa
+0.2,Tidak ada,Cukup,34.2,1828,301,Tidak melakukan apa-apa
+0.5,Tidak ada,Cukup,34.4,1902,235,Tidak melakukan apa-apa
+0.6,Tidak ada,Cukup,34.4,1656,320,Tidak melakukan apa-apa
+2.2,Tidak ada,Cukup,33.7,1945,247,Tidak melakukan apa-apa
+2,Tidak ada,Cukup,33.6,1829,248,Tidak melakukan apa-apa
+2.2,Tidak ada,Cukup,33.5,2121,195,Tidak melakukan apa-apa
+5,Tidak ada,Cukup,33.4,448,188,Tidak melakukan apa-apa
+0.9,Tidak ada,Cukup,34,30,153,Tidak melakukan apa-apa
+0.6,Tidak ada,Cukup,34.6,61,123,Tidak melakukan apa-apa
+2,Tidak ada,Cukup,34.7,529,140,Tidak melakukan apa-apa
+1.5,Tidak ada,Cukup,35,99,53,Tidak melakukan apa-apa
+3.1,Tidak ada,Cukup,35,237,119,Tidak melakukan apa-apa
+4.8,Tidak ada,Cukup,35,56,92,Tidak melakukan apa-apa
+5.1,Tidak ada,Cukup,34.8,126,108,Tidak melakukan apa-apa
+1,Tidak ada,Cukup,34.6,532,88,Tidak melakukan apa-apa
+3.9,Tidak ada,Cukup,34.1,906,19,Tidak melakukan apa-apa
+4.2,Tidak ada,Cukup,34,1036,49,Tidak melakukan apa-apa
+5.2,Tidak ada,Cukup,34.2,1063,35,Tidak melakukan apa-apa
+0.5,Tidak ada,Cukup,34.6,1011,10,Tidak melakukan apa-apa
+3.2,Tidak ada,Cukup,34.3,1038,6,Tidak melakukan apa-apa
+2.4,Tidak ada,Cukup,34.1,564,8,Tidak melakukan apa-apa
+3.7,Tidak ada,Cukup,34.1,623,50,Tidak melakukan apa-apa
+1.7,Tidak ada,Cukup,34.4,702,5,Tidak melakukan apa-apa
+1.3,Tidak ada,Cukup,34.2,779,41,Tidak melakukan apa-apa
+4.5,Tidak ada,Cukup,34.1,653,11,Tidak melakukan apa-apa
+7.5,Tidak ada,Rendah,34.1,1292,590,Tidak melakukan apa-apa
+6.8,Tidak ada,Rendah,34,1238,613,Tidak melakukan apa-apa
+7.2,Tidak ada,Rendah,34.2,1309,534,Tidak melakukan apa-apa
+7.5,Tidak ada,Rendah,34.6,1326,532,Tidak melakukan apa-apa
+7.3,Tidak ada,Rendah,34.5,1106,594,Tidak melakukan apa-apa
+6.8,Tidak ada,Rendah,34.3,1576,554,Tidak melakukan apa-apa
+6.7,Tidak ada,Rendah,34,1592,556,Tidak melakukan apa-apa
+6.6,Tidak ada,Rendah,34.1,1582,521,Tidak melakukan apa-apa
+7.3,Tidak ada,Rendah,34.1,1601,464,Tidak melakukan apa-apa
+7.4,Tidak ada,Rendah,34.2,1349,507,Tidak melakukan apa-apa
+7.5,Tidak ada,Rendah,33.9,1979,445,Tidak melakukan apa-apa
+7.1,Tidak ada,Rendah,33.9,1768,476,Tidak melakukan apa-apa
+7.2,Tidak ada,Rendah,33.9,1994,413,Tidak melakukan apa-apa
+6.7,Tidak ada,Rendah,33.8,1677,339,Tidak melakukan apa-apa
+7.3,Tidak ada,Rendah,33.9,2049,330,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah,33.7,1974,403,Tidak melakukan apa-apa
+7.5,Tidak ada,Rendah,33.7,1877,357,Tidak melakukan apa-apa
+7.5,Tidak ada,Rendah,33.7,1638,222,Tidak melakukan apa-apa
+7.5,Tidak ada,Rendah,33.7,1652,311,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah,33.6,1757,285,Tidak melakukan apa-apa
+6.7,Tidak ada,Rendah,33.7,333,236,Tidak melakukan apa-apa
+7.4,Tidak ada,Rendah,33.4,378,169,Tidak melakukan apa-apa
+6.6,Tidak ada,Rendah,33.2,128,192,Tidak melakukan apa-apa
+7,Tidak ada,Rendah,33.2,205,135,Tidak melakukan apa-apa
+7.1,Tidak ada,Rendah,33.2,340,208,Tidak melakukan apa-apa
+7.2,Tidak ada,Rendah,33.1,358,50,Tidak melakukan apa-apa
+6.6,Tidak ada,Rendah,33,116,64,Tidak melakukan apa-apa
+7.2,Tidak ada,Rendah,33,143,63,Tidak melakukan apa-apa
+7,Tidak ada,Rendah,33,463,68,Tidak melakukan apa-apa
+6.6,Tidak ada,Rendah,32.4,996,50,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah,32.4,996,49,Tidak melakukan apa-apa
+7.4,Tidak ada,Rendah,32.4,826,42,Tidak melakukan apa-apa
+6.6,Tidak ada,Rendah,32.4,825,29,Tidak melakukan apa-apa
+7.2,Tidak ada,Rendah,32.4,994,9,Tidak melakukan apa-apa
+6.9,Tidak ada,Rendah,32.3,808,24,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah,32.2,686,6,Tidak melakukan apa-apa
+6.9,Tidak ada,Rendah,31.7,686,25,Tidak melakukan apa-apa
+6.7,Tidak ada,Rendah,31.8,660,32,Tidak melakukan apa-apa
+7.1,Tidak ada,Rendah,31.8,668,19,Tidak melakukan apa-apa
+6.4,Tidak ada,Rendah sekali,31.8,1283,572,Tidak melakukan apa-apa
+6.3,Tidak ada,Rendah sekali,31.8,1335,566,Tidak melakukan apa-apa
+6.1,Tidak ada,Rendah sekali,32,1256,532,Tidak melakukan apa-apa
+6,Tidak ada,Rendah sekali,31.9,1113,526,Tidak melakukan apa-apa
+5.9,Tidak ada,Rendah sekali,31.8,1367,553,Tidak melakukan apa-apa
+6.4,Tidak ada,Rendah sekali,31.8,1440,539,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah sekali,31.8,1436,423,Tidak melakukan apa-apa
+6.1,Tidak ada,Rendah sekali,31.8,1530,436,Tidak melakukan apa-apa
+5.9,Tidak ada,Rendah sekali,31.9,1603,457,Tidak melakukan apa-apa
+5.7,Tidak ada,Rendah sekali,31.8,1393,449,Tidak melakukan apa-apa
+6.4,Tidak ada,Rendah sekali,31.8,1964,440,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah sekali,31.6,2077,502,Tidak melakukan apa-apa
+6.1,Tidak ada,Rendah sekali,31.7,1923,359,Tidak melakukan apa-apa
+5.6,Tidak ada,Rendah sekali,31.6,1685,377,Tidak melakukan apa-apa
+6.1,Tidak ada,Rendah sekali,31.7,2131,320,Tidak melakukan apa-apa
+6.3,Tidak ada,Rendah sekali,33.4,1876,372,Tidak melakukan apa-apa
+6.2,Tidak ada,Rendah sekali,33.3,1880,285,Tidak melakukan apa-apa
+5.8,Tidak ada,Rendah sekali,33.9,1873,258,Tidak melakukan apa-apa
+5.6,Tidak ada,Rendah sekali,33.6,1989,273,Tidak melakukan apa-apa
+6.3,Tidak ada,Rendah sekali,33.6,1641,285,Tidak melakukan apa-apa
+5.9,Tidak ada,Rendah sekali,33.6,398,229,Tidak melakukan apa-apa
+6.1,Tidak ada,Rendah sekali,33.6,151,190,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah sekali,33.6,368,184,Tidak melakukan apa-apa
+5.9,Tidak ada,Rendah sekali,32.9,192,210,Tidak melakukan apa-apa
+5.8,Tidak ada,Rendah sekali,32.9,518,194,Tidak melakukan apa-apa
+6.2,Tidak ada,Rendah sekali,32.6,18,65,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah sekali,32.4,526,117,Tidak melakukan apa-apa
+6.4,Tidak ada,Rendah sekali,32.5,288,111,Tidak melakukan apa-apa
+6.4,Tidak ada,Rendah sekali,32.5,256,64,Tidak melakukan apa-apa
+5.9,Tidak ada,Rendah sekali,32.6,956,56,Tidak melakukan apa-apa
+6.2,Tidak ada,Rendah sekali,32.6,1009,40,Tidak melakukan apa-apa
+5.7,Tidak ada,Rendah sekali,33,871,39,Tidak melakukan apa-apa
+6.2,Tidak ada,Rendah sekali,32.7,1046,28,Tidak melakukan apa-apa
+6.1,Tidak ada,Rendah sekali,32.4,1013,22,Tidak melakukan apa-apa
+6.5,Tidak ada,Rendah sekali,32.4,585,14,Tidak melakukan apa-apa
+6.1,Tidak ada,Rendah sekali,31.3,722,27,Tidak melakukan apa-apa
+6.4,Tidak ada,Rendah sekali,31.4,739,29,Tidak melakukan apa-apa
+5.7,Tidak ada,Rendah sekali,30.9,596,3,Tidak melakukan apa-apa
+6.2,Tidak ada,Rendah sekali,31,806,20,Tidak melakukan apa-apa
+10.6,Ada,Tinggi,31,119,600,Tidak melakukan apa-apa
+13.7,Ada,Tinggi,31,1656,569,Tidak melakukan apa-apa
+12,Ada,Tinggi,31,585,605,Tidak melakukan apa-apa
+13.5,Ada,Tinggi,31.1,225,551,Tidak melakukan apa-apa
+12.7,Ada,Tinggi,31,982,444,Tidak melakukan apa-apa
+14,Ada,Tinggi,30.7,528,496,Tidak melakukan apa-apa
+7,Ada,Tinggi,30.9,1619,478,Tidak melakukan apa-apa
+7.2,Ada,Tinggi,30.7,1025,343,Tidak melakukan apa-apa
+7.2,Ada,Tinggi,30.5,1774,345,Tidak melakukan apa-apa
+6.5,Ada,Tinggi,30.9,805,340,Tidak melakukan apa-apa
+6.6,Ada,Tinggi,31,489,372,Tidak melakukan apa-apa
+6.6,Ada,Tinggi,31,2024,270,Tidak melakukan apa-apa
+7.2,Ada,Tinggi,30.5,642,284,Tidak melakukan apa-apa
+5.9,Ada,Tinggi,30.5,262,317,Tidak melakukan apa-apa
+5.9,Ada,Tinggi,29.9,1262,180,Tidak melakukan apa-apa
+5.9,Ada,Tinggi,30,187,154,Tidak melakukan apa-apa
+6.4,Ada,Tinggi,29.9,1951,169,Tidak melakukan apa-apa
+5.6,Ada,Tinggi,30,1580,51,Tidak melakukan apa-apa
+6,Ada,Tinggi,29.9,581,102,Tidak melakukan apa-apa
+5.4,Ada,Tinggi,29.9,96,106,Tidak melakukan apa-apa
+1.1,Ada,Tinggi,29.9,2147,22,Tidak melakukan apa-apa
+5.4,Ada,Tinggi,29.9,967,42,Tidak melakukan apa-apa
+5.4,Ada,Tinggi,29.8,520,21,Tidak melakukan apa-apa
+2.6,Ada,Tinggi,30,685,13,Tidak melakukan apa-apa
+0.5,Ada,Tinggi,29.9,946,36,Tidak melakukan apa-apa
+4.9,Ada,Tinggi,29.7,591,13,Tidak melakukan apa-apa
+8,Ada,Cukup,29.7,411,570,Tidak melakukan apa-apa
+9.6,Ada,Cukup,29.5,1636,594,Tidak melakukan apa-apa
+12.3,Ada,Cukup,29.8,618,629,Tidak melakukan apa-apa
+12.9,Ada,Cukup,30,49,465,Tidak melakukan apa-apa
+11.9,Ada,Cukup,29.9,931,490,Tidak melakukan apa-apa
+9.6,Ada,Cukup,29.8,352,475,Tidak melakukan apa-apa
+12.3,Ada,Cukup,29.9,1716,418,Tidak melakukan apa-apa
+6.6,Ada,Cukup,29.9,989,395,Tidak melakukan apa-apa
+7,Ada,Cukup,29.6,2096,406,Tidak melakukan apa-apa
+6.5,Ada,Cukup,29.5,564,288,Tidak melakukan apa-apa
+7.1,Ada,Cukup,29.5,547,295,Tidak melakukan apa-apa
+7.3,Ada,Cukup,29.5,2120,304,Tidak melakukan apa-apa
+7.3,Ada,Cukup,29.6,693,302,Tidak melakukan apa-apa
+6.5,Ada,Cukup,29.9,166,129,Tidak melakukan apa-apa
+5.6,Ada,Cukup,29.5,1323,159,Tidak melakukan apa-apa
+6.5,Ada,Cukup,29.5,233,188,Tidak melakukan apa-apa
+6.2,Ada,Cukup,29.5,2145,55,Tidak melakukan apa-apa
+6.4,Ada,Cukup,29.5,1525,115,Tidak melakukan apa-apa
+5.7,Ada,Cukup,29.5,652,117,Tidak melakukan apa-apa
+6.3,Ada,Cukup,29.5,40,100,Tidak melakukan apa-apa
+2.4,Ada,Cukup,29.5,1744,36,Tidak melakukan apa-apa
+1.5,Ada,Cukup,29.4,1007,11,Tidak melakukan apa-apa
+5.2,Ada,Cukup,29.5,289,14,Tidak melakukan apa-apa
+1.9,Ada,Cukup,29.5,711,27,Tidak melakukan apa-apa
+5.2,Ada,Cukup,28.9,1045,13,Tidak melakukan apa-apa
+3.1,Ada,Cukup,29,813,44,Tidak melakukan apa-apa
+8.4,Ada,Rendah,28.6,266,523,Tidak melakukan apa-apa
+9.2,Ada,Rendah,28.7,1928,578,Tidak melakukan apa-apa
+7.7,Ada,Rendah,28.3,582,574,Tidak melakukan apa-apa
+10.9,Ada,Rendah,27.9,19,421,Tidak melakukan apa-apa
+10.9,Ada,Rendah,28.1,842,527,Tidak melakukan apa-apa
+8.4,Ada,Rendah,27.2,486,501,Tidak melakukan apa-apa
+7.5,Ada,Rendah,27.1,2080,384,Tidak melakukan apa-apa
+7.3,Ada,Rendah,27,860,342,Hidupkan Lampu
+7.5,Ada,Rendah,26.9,1695,337,Hidupkan Lampu
+6.8,Ada,Rendah,27,781,389,Hidupkan Lampu
+7,Ada,Rendah,27.1,248,309,Tidak melakukan apa-apa
+7.3,Ada,Rendah,27.1,1823,248,Tidak melakukan apa-apa
+6.5,Ada,Rendah,27,665,223,Hidupkan Lampu
+6.4,Ada,Rendah,26.9,464,185,Hidupkan Lampu dan Pompa nutrisi TDS
+6,Ada,Rendah,27,1336,186,Hidupkan Lampu
+6.2,Ada,Rendah,27.1,128,177,Tidak melakukan apa-apa
+6.1,Ada,Rendah,26.9,1685,87,Hidupkan Lampu
+5.8,Ada,Rendah,26.5,1519,90,Hidupkan Lampu
+5.7,Ada,Rendah,26.6,717,65,Hidupkan Lampu
+1.6,Ada,Rendah,26.5,98,52,Hidupkan Lampu dan Pompa nutrisi TDS
+2.9,Ada,Rendah,26.5,2149,36,Hidupkan Lampu
+2.5,Ada,Rendah,26.5,1021,11,Hidupkan Lampu
+2.3,Ada,Rendah,26.7,266,14,Hidupkan Lampu dan Pompa nutrisi TDS
+1.9,Ada,Rendah,26.5,691,27,Hidupkan Lampu
+2.7,Ada,Rendah,26.5,849,13,Hidupkan Lampu
+4.8,Ada,Rendah,26.5,936,44,Hidupkan Lampu
+9.7,Ada,Rendah sekali,26.6,201,608,Hidupkan Lampu dan Pompa nutrisi TDS
+9.5,Ada,Rendah sekali,26.6,1755,597,Hidupkan Lampu
+8.4,Ada,Rendah sekali,26.5,761,548,Hidupkan Lampu
+13,Ada,Rendah sekali,26.5,17,539,Hidupkan Lampu dan Pompa nutrisi TDS
+10.1,Ada,Rendah sekali,26.5,1060,497,Hidupkan Lampu
+12.7,Ada,Rendah sekali,26.5,208,500,Hidupkan Lampu dan Pompa nutrisi TDS
+8.6,Ada,Rendah sekali,26.6,1625,499,Hidupkan Lampu
+6.9,Ada,Rendah sekali,26.9,1008,408,Hidupkan Lampu
+7.2,Ada,Rendah sekali,26.7,1792,378,Hidupkan Lampu
+7.1,Ada,Rendah sekali,26.6,578,381,Hidupkan Lampu
+6.9,Ada,Rendah sekali,27,391,252,Hidupkan Lampu dan Pompa nutrisi TDS
+6.9,Ada,Rendah sekali,26.6,1728,273,Hidupkan Lampu
+7.3,Ada,Rendah sekali,26.9,688,259,Hidupkan Lampu
+5.6,Ada,Rendah sekali,26.8,334,234,Hidupkan Lampu dan Pompa nutrisi TDS
+5.5,Ada,Rendah sekali,25.9,1333,214,Hidupkan Lampu
+6.2,Ada,Rendah sekali,25.8,229,125,Hidupkan Lampu dan Pompa nutrisi TDS
+5.8,Ada,Rendah sekali,25.8,1724,159,Hidupkan Lampu
+6.4,Ada,Rendah sekali,25.8,1496,96,Hidupkan Lampu
+5.7,Ada,Rendah sekali,25.9,632,102,Hidupkan Lampu
+5.7,Ada,Rendah sekali,25.9,15,73,Hidupkan Lampu dan Pompa nutrisi TDS
+0.2,Ada,Rendah sekali,25.7,1804,35,Hidupkan Lampu
+4.6,Ada,Rendah sekali,25.3,904,47,Hidupkan Lampu
+2.1,Ada,Rendah sekali,25,388,18,Hidupkan Lampu dan Pompa nutrisi TDS
+3.2,Ada,Rendah sekali,25.3,793,19,Hidupkan Lampu
+1.4,Ada,Rendah sekali,25.4,1052,3,Hidupkan Lampu
+5,Ada,Rendah sekali,25.3,977,19,Hidupkan Lampu
